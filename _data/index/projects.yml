@@ -18,7 +18,7 @@
 - name: Sentiment Analysis Engine
   i18n: Sentiment Analysis Engine
   gh_user: DhanashriPalodkar
-  repo: NFO-7374-Team-11/tree/master/Assignment3
+  repo: INFO-7374-Team-11/tree/master/Assignment3
   img: /static/assets/img/landing/google.png
   desc: Created a sentiment analysis engine by identifying best sentiment analysis platform and technioque.
 
