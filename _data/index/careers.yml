@@ -16,23 +16,23 @@
   present: true
 
 - name:
-          detail: Redhat Inc
+    detail: Redhat Inc
           #i18n: company_b
-          desc:
-            detail:
+    desc:
+        detail:
               • Developed GitOps to seamlessly deploy container-native applications into multiple environments using Git as a source
               • Automated CI/CD pipelines and implemented commit status tacker to seamlessly deploy application
               • Created CI using Tekton and CD using Argo CD for multiple environments, integrated Gitlab and Github to Gitops
               • Contributed to upstream opensource repository like Kubernetes, Tekton, Argo-cd and Jenkin-x
 
             #i18n: company_b_desc
-          date:
-            detail: January 2020 - August 2020
+    date:
+        detail: January 2020 - August 2020
             #i18n: company_b_date
-          job:
-            detail: Software Developer
+    job:
+        detail: Software Developer
             #i18n: company_b_job
-          icon: fa-plus-square
+    icon: fa-plus-square
 
 - name:
     detail: MIT media Labs
