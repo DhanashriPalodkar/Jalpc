@@ -1,44 +1,44 @@
 # skills section data
 
-#label: Ability
-#id : cs
-#aspects: GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
-#percentage: 100, 35, 65, 80, 70, 90, 50
-skills:
-# Languages
-  - Python
-  - Go
-  - Java
-  - NodeJS
-  - Shell
-# Technologies
-  - SQL
-  - NoSQL
-# DBs
-  - MongoDB
-  - DynamoDB
-
-# Frameworks
-  - Dgango
-  - Flask
-  - Spring Boot
-# CI/CD
-  - Jenkins
-  - Tekton
-  - Argo cd
-  - Circlle CI
-# Cloud Platforms
-  - Openshift
-  - Kubernetes
-  - AWS
-
-# Version Control
-  - GIT
-  - TFS
-# Version Control Hubs
-  - GitHub
-  - BitBucket
-  - GitLab
-# Containers
-  - Docker
-  - Openshift
+label: Ability
+id : cs
+aspects: version Control, Python, go, Java, Machine Learing, NLP, Kubernetes, Database
+percentage: 100, 80, 70, 70, 70, 50, 60, 80
+#skills:
+## Languages
+#  - Python
+#  - Go
+#  - Java
+#  - NodeJS
+#  - Shell
+## Technologies
+#  - SQL
+#  - NoSQL
+## DBs
+#  - MongoDB
+#  - DynamoDB
+#
+## Frameworks
+#  - Dgango
+#  - Flask
+#  - Spring Boot
+## CI/CD
+#  - Jenkins
+#  - Tekton
+#  - Argo cd
+#  - Circlle CI
+## Cloud Platforms
+#  - Openshift
+#  - Kubernetes
+#  - AWS
+#
+## Version Control
+#  - GIT
+#  - TFS
+## Version Control Hubs
+#  - GitHub
+#  - BitBucket
+#  - GitLab
+## Containers
+#  - Docker
+#  - Openshift
