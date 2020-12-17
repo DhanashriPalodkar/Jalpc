@@ -1,22 +1,24 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+- name: Cloud Based Backend Application
+  i18n: Cloud Based Backend Application
+  gh_user: DhanashriPalodkar
+  repo: csye6225-su19-lambda
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: Hosted highly available and auto scalable RESTful web services on AWS using Java Spring Boot
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+- name: Drowsiness Detection in Automated vehicles
+  i18n: Drowsiness Detection in Automated vehicles
+  gh_user: DhanashriPalodkar
+  repo: Info7374_final-project
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: This project detects drowsiness and expression to alert the driver using blink detection
 
-- name: Google
-  i18n: google
-  url: https://google.com
+- name: Sentiment Analysis Engine
+  i18n: Sentiment Analysis Engine
+  gh_user: DhanashriPalodkar
+  repo: NFO-7374-Team-11/tree/master/Assignment3
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: Created a sentiment analysis engine by identifying best sentiment analysis platform and technioque.
+
