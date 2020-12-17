@@ -2,7 +2,7 @@
 # custom following lines to edit your index page
 - id: about-me
   i18n: nav.about_me
-  name: Dhanashri
+  name: About
   tpl: about.html
   css:
 
@@ -11,11 +11,11 @@
   name: Career
   tpl: career.html
   css: timeline
-  
+
 - id: skills
   i18n: nav.skills
   name: Skills
-  tpl: skills_tags.html 
+  tpl: skills.html
   css: team
 
 - id: projects
@@ -29,7 +29,7 @@
   name: Blog
   tpl: blog.html
   page: blog/
-#   css: testimonials navy-section
+  css: testimonials navy-section
 
 - id: links
   i18n: nav.link
