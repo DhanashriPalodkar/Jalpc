@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: I am a recent graduate from northeastern university and worked as interns at Redhat and MIT media labs. I am a software engineer experienced with end-to-end software development cycle from requiremnet gathering to communicating with clients. I enjoy working in newly emeriging tech and buisness and product side of tech development. Tennis,glof and painting are some of the other activities I do apart from tech and always seeking opportunity to learn new opportunities .  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -36,35 +36,35 @@ author:  # change following line to your infomation.
 
 # analytics
 ## google analytics
-ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  id: G-1NX2DWWGGH
+# ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+#   id: G-1NX2DWWGGH
 
-## google optimize
-go:
-  # id:
+# ## google optimize
+# go:
+#   # id:
 
-## growingIO
-gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
-  # id:
+# ## growingIO
+# gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+#   # id:
 
-## donation
-donation: off  # type 'on'/'off' to choice display donation button at post page or not
+# ## donation
+# donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
-## carousels
-index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
+# ## carousels
+# index_carousel: on  # index page carousel switch
+# blog_carousel: on  # blog page carousel switch
 
-# scss
-sass:
-  style: compressed
+# # scss
+# sass:
+#   style: compressed
 
-# Build settings
-encoding: utf-8
+# # Build settings
+# encoding: utf-8
 
-# other settings
-highlighter: rouge
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+# # other settings
+# highlighter: rouge
+# markdown: kramdown
+# kramdown:
+#   input: GFM
+#   syntax_highlighter: rouge
 
